@@ -10,17 +10,17 @@ In this data science and machine learning project, we classify sports personalit
   5. Virat Kohli
 
 Here is the folder structure,
-  UI : This contains ui website code
-  server: Python flask server
-  model: Contains python notebook for model building
-  model_dataset: Dataset used for our model training
+  1. UI : This contains ui website code
+  2. server: Python flask server
+  3. model: Contains python notebook for model building
+  4. model_dataset: Dataset used for our model training
  
 Technologies used in this project,
-  Python
-  Numpy and OpenCV for data cleaning
-  Matplotlib & Seaborn for data visualization
-  SVM for classification
-  Sklearn for model building
-  Jupyter notebook and visual studio code as IDE
-  Python flask for http server
-  HTML/CSS/Javascript for UI
+1. Python
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. SVM for classification
+5. Sklearn for model building
+6. Jupyter notebook and visual studio code as IDE
+7. Python flask for http server
+8. HTML/CSS/Javascript for UI
