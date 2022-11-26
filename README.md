@@ -1,4 +1,4 @@
-# Image_Classifier_Offline
+# Image_Classifier
 Data Science and Machine Learning project using Python and OpenCV
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/51874859/203472752-aa213071-a806-41fd-8c61-e4062c8ff8cd.png)
