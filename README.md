@@ -1,5 +1,5 @@
 # Image_Classifier
-Data Science and Machine Learning project using Python and OpenCV
+Data Science and Machine Learning project using OpenCV and Python
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/51874859/203472752-aa213071-a806-41fd-8c61-e4062c8ff8cd.png)
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people:
