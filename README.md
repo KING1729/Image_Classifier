@@ -2,6 +2,8 @@
 Data Science and Machine Learning project using OpenCV and Python
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/51874859/203472752-aa213071-a806-41fd-8c61-e4062c8ff8cd.png)
+
+Code is uploaded on the Github - https://github.com/KING1729/Image_Classifier 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people:
   1. Elon Musk
   2. Mark Zuckerberg
