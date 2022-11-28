@@ -1,7 +1,8 @@
 # Image_Classifier
 Data Science and Machine Learning project using OpenCV and Python
 
-![Screenshot (123)](https://user-images.githubusercontent.com/51874859/203472752-aa213071-a806-41fd-8c61-e4062c8ff8cd.png)
+Project Working:
+https://user-images.githubusercontent.com/51874859/204208372-ac4f19b1-269f-4f78-a004-adfdc47e1036.mp4
 
 Code is uploaded on the Github - https://github.com/KING1729/Image_Classifier 
 
