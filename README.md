@@ -6,8 +6,6 @@ Data Science and Machine Learning project using OpenCV and Python
 Project Working:
 https://user-images.githubusercontent.com/51874859/204208372-ac4f19b1-269f-4f78-a004-adfdc47e1036.mp4
 
-Code is uploaded on the Github - https://github.com/KING1729/Image_Classifier 
-
 Website link: https://king1729.github.io/Image_Classifier/UI/app
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people:
@@ -32,3 +30,5 @@ Technologies used in this project,
 6. Jupyter notebook and visual studio code as IDE
 7. Python flask for http server
 8. HTML/CSS/Javascript for UI
+
+Code is uploaded on the Github - https://github.com/KING1729/Image_Classifier 
